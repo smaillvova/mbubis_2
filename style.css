@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://miro.medium.com/v2/resize:fit:2000/1*OSVptnNeegbjhnSWo2V_qw.jpeg);
+    background-size: cover;
+}
+
+h2{
+    text-align: center ;
+    color:green ;
+    font-size: 50px;
+}
+main{
+    color:white ;
+}
+
+
+.text {
+    background-color: rgba(8, 4, 12, 0.719);
+}
+
+
+.conteiner{
+ background-color: rgba(8, 4, 12, 0.719);   
+}
+
+
+footer{
+    background-color: white;
+}
+    
+nav a {
+    text-decoration: none;
+    color: green;
+    font-size:25px ;
+    padding:5px ;
+    }
+
+    nav{
+   border:3px      solid     magenta; 
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;  
+  text-align: center;
+}
+    
